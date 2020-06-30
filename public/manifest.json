@@ -1,0 +1,10 @@
+{
+  "short_name": "DogSnap",
+  "name": "DogSnap - Dog Breed Categorizer, powered by DataRobot Visual AI",
+  "start_url": "/",
+  "background_color": "#2A2520",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2A2520",
+  "gcm_sender_id": "103953800507"
+}
