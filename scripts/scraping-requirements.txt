@@ -1,0 +1,7 @@
+BeautifulSoup4
+black
+loguru
+pandas
+pillow
+requests
+tqdm
