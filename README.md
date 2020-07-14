@@ -1,4 +1,6 @@
-# Dog Breed ClasssifAIer, powered by DataRobot Visual AI
+# Dog Breed ClasssifAIer, powered by DataRobot Visual AI - WORKSHOP VERSION
+
+Thgis is the workshop version of the DogSnap app
 
 > _Find a dog. Take a photo of a dog. Describe the dog. Upload to the AI 🤖🧠☁️. Learn what breed the dog is. Easy enough with DataRobot._
 

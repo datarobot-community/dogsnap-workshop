@@ -1,0 +1,16 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "train_and_deploy_models.js",
+  "scripts": {
+    "start": "node train_and_deploy_models.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "got": "^11.5.0"
+  }
+}

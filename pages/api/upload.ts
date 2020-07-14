@@ -4,11 +4,11 @@ import got from 'got'
 import breedDescriptions from './_breed_descriptions'
 
 const deployments = {
-  x_small: process.env.DEPLOYMENT_00_XSMALL || "",
-  small: process.env.DEPLOYMENT_01_SMALL || "",
-  medium: process.env.DEPLOYMENT_02_MEDIUM || "",
-  large: process.env.DEPLOYMENT_03_LARGE || "",
-  x_large: process.env.DEPLOYMENT_04_XLARGE || "",
+  x_small: '',
+  small: '',
+  medium: '',
+  large: '',
+  x_large: '',
 }
 
 const PREDICTION_SERVER = process.env.PREDICTION_SERVER
