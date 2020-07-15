@@ -1,7 +1,6 @@
 const got = require('got')
 const FormData = require('form-data')
 const fs = require('fs')
-const { timeStamp } = require('console')
 
 const DR_API_URL = "https://app2.datarobot.com/api/v2"
 const DR_API_KEY = ""
